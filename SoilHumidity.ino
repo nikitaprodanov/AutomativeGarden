@@ -3,14 +3,14 @@
 
 
 //Constants 
-const int airPump = 9;    //Air pump motor with npn transistor at pin 9 of Arduino
+const int waterPump = 9;    //Air pump motor with npn transistor at pin 9 of Arduino
 const int hygrometer = A0;  //Hygrometer sensor analog pin output at pin A0 of Arduino
 
 //Variables 
 int value;
 void setup()
 {
-  pinMode(airPump,OUTPUT);
+  pinMode(waterPump,OUTPUT);
 }
 
 void loop()
@@ -24,10 +24,10 @@ void loop()
   
   //Start the watering if humidity decrease down of 20%
   if (value < 20){
-    digitalWrite(airPump,HIGH);
+    digitalWrite(waterPump,HIGH);
   }
   else {
-      digitalWrite(airPump,LOW);
+      digitalWrite(waterPump,LOW);
   }
   delay(150); //small delay
 }
