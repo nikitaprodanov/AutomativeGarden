@@ -12,7 +12,7 @@
 
 ![GitHub](https://img.shields.io/github/last-commit/uchihanaruto9371/AutomativeGarden/develop?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/v/tag/uchihanaruto9371/AutomativeGarden?label=Last%20Version&logo=github&style=for-the-badge)
+![GitHub](https://img.shields.io/github/v/tag/uchihanaruto9371/AutomativeGarden?logo=github&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/release-date/uchihanaruto9371/AutomativeGarden?logo=github&style=for-the-badge)
 
 ## Данни за репото:
