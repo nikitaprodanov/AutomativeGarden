@@ -1,6 +1,8 @@
 
 # AutomativeGarden
 
+![arduino](https://user-images.githubusercontent.com/25925936/82157924-26622b80-988d-11ea-9bf1-56f7955b3acd.jpg)
+
 ## Данни за разработката:
 ![GitHub](https://img.shields.io/github/issues-pr/uchihanaruto9371/AutomativeGarden?color=green&style=for-the-badge)
 
