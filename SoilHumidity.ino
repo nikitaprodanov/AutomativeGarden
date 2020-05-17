@@ -1,6 +1,4 @@
-/*  Arduino Automatic Watering System for your desk flower
-  Dev: Michalis Vasilakis // Date: 16/04/2016 // www.ardumotive.com */
-
+// Arduino Automatic Watering System for your desk flower
 
 //Constants 
 const int waterPump = 9;    //Air pump motor with npn transistor at pin 9 of Arduino
