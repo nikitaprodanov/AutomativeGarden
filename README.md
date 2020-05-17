@@ -8,10 +8,10 @@
 
 ![GitHub](https://img.shields.io/github/contributors/uchihanaruto9371/AutomativeGarden?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/last-commit/uchihanaruto9371/AutomativeGarden/Nikita?style=for-the-badge)
+![GitHub](https://img.shields.io/github/last-commit/uchihanaruto9371/AutomativeGarden/develop?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/github/v/tag/uchihanaruto9371/AutomativeGarden?label=Last%20Version&logo=github&style=for-the-badge)
-![GitHub](https://img.shields.io/github/release-date/uchihanaruto9371/OnlineCHess?logo=github&style=for-the-badge)
+![GitHub](https://img.shields.io/github/release-date/uchihanaruto9371/AutomativeGarden?logo=github&style=for-the-badge)
 
 ## Данни за репото:
 ![GitHub](https://img.shields.io/github/forks/uchihanaruto9371/AutomativeGarden?style=social)
@@ -31,7 +31,7 @@
 
 ![GitHub](https://img.shields.io/github/languages/count/uchihanaruto9371/AutomativeGarden?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/languages/top/uchihanaruto9371/AutomativeGarden?label=Most%20used%20language&logo=python&style=for-the-badge)
+![GitHub](https://img.shields.io/github/languages/top/uchihanaruto9371/AutomativeGarden?label=Most%20used%20language&logo=c%2B%2B&style=for-the-badge)
 
 Ние ползваме официалното [ArduinoIDE] (https://www.arduino.cc/en/Main/Software) за разработката на софтуера.
 Повече информация на нашата [Документация](https://github.com/uchihanaruto9371/AutomativeGarden/wiki/Development-Documentation).
