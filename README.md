@@ -33,5 +33,5 @@
 
 ![GitHub](https://img.shields.io/github/languages/top/uchihanaruto9371/AutomativeGarden?label=Most%20used%20language&logo=c%2B%2B&style=for-the-badge)
 
-Ние ползваме официалното [ArduinoIDE] (https://www.arduino.cc/en/Main/Software) за разработката на софтуера.
+Ние ползваме официалното [ArduinoIDE](https://www.arduino.cc/en/Main/Software) за разработката на софтуера.
 Повече информация на нашата [Документация](https://github.com/uchihanaruto9371/AutomativeGarden/wiki/Development-Documentation).
