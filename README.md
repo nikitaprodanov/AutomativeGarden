@@ -1,7 +1,7 @@
 
 # AutomativeGarden
 
-<img src="images/arduino1.jpg" height="100" width="250">
+<img src="images/arduino1.jpg" height="400" width="1000">
 
 ## Данни за разработката:
 ![GitHub](https://img.shields.io/github/issues-pr/uchihanaruto9371/AutomativeGarden?color=green&style=for-the-badge)
