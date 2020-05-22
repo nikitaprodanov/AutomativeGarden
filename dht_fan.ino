@@ -1,6 +1,6 @@
-#include <dht.h>
+#include <dht11.h>
 
-dht DHT;
+dht11 DHT11;
 
 #define DHT_PIN 4
 #define FAN 9
@@ -12,9 +12,9 @@ void setup(){
 
 void loop()
 {
-  DHT.read11(DHT_PIN);
+  DHT11.read(DHT_PIN);
 
-  if(DHT.temperature < tooHot) {
+  if(DHT11.temperature < tooHot) {
     digitalWrite(FAN, HIGH);
   }
   else {
