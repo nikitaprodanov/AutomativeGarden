@@ -36,7 +36,7 @@
 ## Информация за авторите на проекта
 
 * **Никита Проданов** - ![GitHub](https://img.shields.io/badge/SoftwareDev-nikitaprodanov-black?style=for-the-badge) - [nikitaprodanov](https://github.com/nikitaprodanov)
-* **Велислав Боянов** - ![GitHub](https://img.shields.io/badge/hardwareDev-velislav-boyanov-blue?style=for-the-badge) - [velislav-boyanov](https://github.com/0NZ1T4M)
+* **Велислав Боянов** - ![GitHub](https://img.shields.io/badge/hardwareDev-velislav-boyanov-blue?style=for-the-badge) - [velislav-boyanov](https://github.com/velislav-boyanov)
 
 ## Данни за разработката:
 ![GitHub](https://img.shields.io/github/issues-pr/nikitaprodanov/AutomativeGarden?color=green&style=for-the-badge)
