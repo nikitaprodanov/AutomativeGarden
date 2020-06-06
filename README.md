@@ -8,7 +8,7 @@
 
 ### Инструкции за сваляне
 
-1) Посетете [последната версия](https://github.com/nikitaprodanov20/AutomativeGarden/releases/tag/0.1) на проекта.
+1) Посетете [последната версия](https://github.com/nikitaprodanov/AutomativeGarden/releases/tag/0.1) на проекта.
 2) Под стрелката **Assets** изтеглете архива **Source code** (.zip или tar.gz)
 
 ### Инструкции за инсталация
@@ -27,32 +27,32 @@
 
 ## Използвани технологии
 
-![GitHub](https://img.shields.io/github/languages/count/nikitaprodanov20/AutomativeGarden?style=for-the-badge)
+![GitHub](https://img.shields.io/github/languages/count/nikitaprodanov/AutomativeGarden?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/languages/top/nikitaprodanov20/AutomativeGarden?label=Most%20used%20language&logo=c%2B%2B&style=for-the-badge)
+![GitHub](https://img.shields.io/github/languages/top/nikitaprodanov/AutomativeGarden?label=Most%20used%20language&logo=c%2B%2B&style=for-the-badge)
 
 *Ние ползваме официалното [ArduinoIDE](https://www.arduino.cc/en/Main/Software) за разработката на софтуера. и езика [C++](https://en.wikipedia.org/wiki/C%2B%2B).
 
 ## Информация за авторите на проекта
 
-* **Никита Проданов** - ![GitHub](https://img.shields.io/badge/SoftwareDev-nikitaprodanov20-black?style=for-the-badge) - [nikitaprodanov20](https://github.com/nikitaprodanov20)
+* **Никита Проданов** - ![GitHub](https://img.shields.io/badge/SoftwareDev-nikitaprodanov-black?style=for-the-badge) - [nikitaprodanov](https://github.com/nikitaprodanov)
 * **Велислав Боянов** - ![GitHub](https://img.shields.io/badge/hardwareDev-velislav-boyanov-blue?style=for-the-badge) - [velislav-boyanov](https://github.com/0NZ1T4M)
 
 ## Данни за разработката:
-![GitHub](https://img.shields.io/github/issues-pr/nikitaprodanov20/AutomativeGarden?color=green&style=for-the-badge)
+![GitHub](https://img.shields.io/github/issues-pr/nikitaprodanov/AutomativeGarden?color=green&style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/issues-pr-closed/nikitaprodanov20/AutomativeGarden?color=green&style=for-the-badge)
+![GitHub](https://img.shields.io/github/issues-pr-closed/nikitaprodanov/AutomativeGarden?color=green&style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/contributors/nikitaprodanov20/AutomativeGarden?style=for-the-badge)
+![GitHub](https://img.shields.io/github/contributors/nikitaprodanov/AutomativeGarden?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/last-commit/nikitaprodanov20/AutomativeGarden/develop?style=for-the-badge)
+![GitHub](https://img.shields.io/github/last-commit/nikitaprodanov/AutomativeGarden/develop?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/v/tag/nikitaprodanov20/AutomativeGarden?logo=github&style=for-the-badge)
-![GitHub](https://img.shields.io/github/release-date/nikitaprodanov20/AutomativeGarden?logo=github&style=for-the-badge)
+![GitHub](https://img.shields.io/github/v/tag/nikitaprodanov/AutomativeGarden?logo=github&style=for-the-badge)
+![GitHub](https://img.shields.io/github/release-date/nikitaprodanov/AutomativeGarden?logo=github&style=for-the-badge)
 
 ## Данни за репото:
-![GitHub](https://img.shields.io/github/forks/nikitaprodanov20/AutomativeGarden?style=social)
+![GitHub](https://img.shields.io/github/forks/nikitaprodanov/AutomativeGarden?style=social)
 
-![GitHub](https://img.shields.io/github/stars/nikitaprodanov20/AutomativeGarden?style=social)
+![GitHub](https://img.shields.io/github/stars/nikitaprodanov/AutomativeGarden?style=social)
 
-![GitHub](https://img.shields.io/github/watchers/nikitaprodanov20/AutomativeGarden?style=social)
+![GitHub](https://img.shields.io/github/watchers/nikitaprodanov/AutomativeGarden?style=social)
